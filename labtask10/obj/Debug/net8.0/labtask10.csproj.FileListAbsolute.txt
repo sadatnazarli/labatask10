@@ -1,0 +1,15 @@
+C:\Users\dvecy\OneDrive\Belgeler\Development\labtask10\labtask10\bin\Debug\net8.0\labtask10.exe
+C:\Users\dvecy\OneDrive\Belgeler\Development\labtask10\labtask10\bin\Debug\net8.0\labtask10.deps.json
+C:\Users\dvecy\OneDrive\Belgeler\Development\labtask10\labtask10\bin\Debug\net8.0\labtask10.runtimeconfig.json
+C:\Users\dvecy\OneDrive\Belgeler\Development\labtask10\labtask10\bin\Debug\net8.0\labtask10.dll
+C:\Users\dvecy\OneDrive\Belgeler\Development\labtask10\labtask10\bin\Debug\net8.0\labtask10.pdb
+C:\Users\dvecy\OneDrive\Belgeler\Development\labtask10\labtask10\obj\Debug\net8.0\labtask10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvecy\OneDrive\Belgeler\Development\labtask10\labtask10\obj\Debug\net8.0\labtask10.AssemblyInfoInputs.cache
+C:\Users\dvecy\OneDrive\Belgeler\Development\labtask10\labtask10\obj\Debug\net8.0\labtask10.AssemblyInfo.cs
+C:\Users\dvecy\OneDrive\Belgeler\Development\labtask10\labtask10\obj\Debug\net8.0\labtask10.csproj.CoreCompileInputs.cache
+C:\Users\dvecy\OneDrive\Belgeler\Development\labtask10\labtask10\obj\Debug\net8.0\labtask10.sourcelink.json
+C:\Users\dvecy\OneDrive\Belgeler\Development\labtask10\labtask10\obj\Debug\net8.0\labtask10.dll
+C:\Users\dvecy\OneDrive\Belgeler\Development\labtask10\labtask10\obj\Debug\net8.0\refint\labtask10.dll
+C:\Users\dvecy\OneDrive\Belgeler\Development\labtask10\labtask10\obj\Debug\net8.0\labtask10.pdb
+C:\Users\dvecy\OneDrive\Belgeler\Development\labtask10\labtask10\obj\Debug\net8.0\labtask10.genruntimeconfig.cache
+C:\Users\dvecy\OneDrive\Belgeler\Development\labtask10\labtask10\obj\Debug\net8.0\ref\labtask10.dll
